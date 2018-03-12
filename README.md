@@ -41,7 +41,7 @@ class extends Generator {
   }
 
   async prompting() {
-    this.context = await yo.optionOrPrompt([
+    this.context = await this.optionOrPrompt([
       {
         type: 'input',
         name: 'name',
