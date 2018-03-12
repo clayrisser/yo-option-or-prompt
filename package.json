@@ -1,6 +1,6 @@
 {
   "name": "yo-option-or-prompt",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Exclude any prompts for data that have been supplied via options",
   "homepage": "https://github.com/jamrizzi/yo-option-or-prompt",
   "author": {

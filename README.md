@@ -53,17 +53,10 @@ class extends Generator {
 }
 ```
 
-[Contribute](https://github.com/jamrizzi/yo-option-or-prompt/blob/master/CONTRIBUTING.md) usage docs
-
 
 ## Support
 
 Submit an [issue](https://github.com/jamrizzi/yo-option-or-prompt/issues/new)
-
-
-## Screenshots
-
-[Contribute](https://github.com/jamrizzi/yo-option-or-prompt/blob/master/CONTRIBUTING.md) a screenshot
 
 
 ## Contributing
