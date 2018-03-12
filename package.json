@@ -1,8 +1,7 @@
 {
   "name": "yo-option-or-prompt",
   "version": "0.0.4",
-  "description":
-    "Exclude any prompts for data that have been supplied via options",
+  "description": "Exclude any prompts for data that have been supplied via options",
   "homepage": "https://github.com/jamrizzi/yo-option-or-prompt",
   "author": {
     "name": "Jam Risser",
@@ -10,7 +9,9 @@
     "url": "https://jam.jamrizzi.com"
   },
   "main": "lib/index.js",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "lint": "eslint ./",
     "lint:fix": "eslint --fix ./",
@@ -47,5 +48,7 @@
   "engines": {
     "node": ">= 4.0.0"
   },
-  "eslintIgnore": ["lib"]
+  "eslintIgnore": [
+    "lib"
+  ]
 }
