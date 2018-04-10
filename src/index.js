@@ -1,5 +1,6 @@
 export default async function yoOptionOrPromt(prompts) {
-  if (!Array.isArray(prompts)) prompts = [prompts];
+  const isArray = Array.isArray(prompts);
+  if (!isArray) prompts = [prompts];
   const filteredPrompts = [];
   const props = new Map();
   prompts.forEach(prompt => {
@@ -14,6 +15,7 @@ export default async function yoOptionOrPromt(prompts) {
     const mergeProps = await this.prompt(filteredPrompts);
     Object.assign(props, mergeProps);
   }
+  if (!isArray) return props[Object.keys(props)[0]];
   return props;
 }
 

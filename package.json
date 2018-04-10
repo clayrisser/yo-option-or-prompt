@@ -1,6 +1,6 @@
 {
   "name": "yo-option-or-prompt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Exclude any prompts for data that have been supplied via options",
   "homepage": "https://github.com/codejamninja/yo-option-or-prompt",
   "author": {
