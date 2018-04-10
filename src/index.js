@@ -1,4 +1,5 @@
 export default async function yoOptionOrPromt(prompts) {
+  if (!Array.isArray(prompts)) prompts = [prompts];
   const filteredPrompts = [];
   const props = new Map();
   prompts.forEach(prompt => {

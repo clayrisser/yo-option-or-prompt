@@ -1,12 +1,12 @@
 {
   "name": "yo-option-or-prompt",
-  "version": "0.0.5",
+  "version": "0.1.1",
   "description": "Exclude any prompts for data that have been supplied via options",
-  "homepage": "https://github.com/jamrizzi/yo-option-or-prompt",
+  "homepage": "https://github.com/codejamninja/yo-option-or-prompt",
   "author": {
     "name": "Jam Risser",
-    "email": "jam@jamrizzi.com",
-    "url": "https://jam.jamrizzi.com"
+    "email": "jam@codejam.ninja",
+    "url": "https://codejam.ninja"
   },
   "main": "lib/index.js",
   "files": [
@@ -31,7 +31,7 @@
     "eslint-plugin-import": "^2.9.0"
   },
   "license": "MIT",
-  "repository": "https://github.com/jamrizzi/yo-option-or-prompt",
+  "repository": "https://github.com/codejamninja/yo-option-or-prompt",
   "babel": {
     "presets": [
       [

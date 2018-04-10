@@ -1,8 +1,8 @@
 # yo-option-or-prompt
 
-[![Beerpay](https://beerpay.io/jamrizzi/yo-option-or-prompt/badge.svg?style=beer-square)](https://beerpay.io/jamrizzi/yo-option-or-prompt)
-[![Beerpay](https://beerpay.io/jamrizzi/yo-option-or-prompt/make-wish.svg?style=flat-square)](https://beerpay.io/jamrizzi/yo-option-or-prompt?focus=wish)
-[![GitHub stars](https://img.shields.io/github/stars/jamrizzi/yo-option-or-prompt.svg?style=social&label=Stars)](https://github.com/jamrizzi/yo-option-or-prompt)
+[![Beerpay](https://beerpay.io/codejamninja/yo-option-or-prompt/badge.svg?style=beer-square)](https://beerpay.io/codejamninja/yo-option-or-prompt)
+[![Beerpay](https://beerpay.io/codejamninja/yo-option-or-prompt/make-wish.svg?style=flat-square)](https://beerpay.io/codejamninja/yo-option-or-prompt?focus=wish)
+[![GitHub stars](https://img.shields.io/github/stars/codejamninja/yo-option-or-prompt.svg?style=social&label=Stars)](https://github.com/codejamninja/yo-option-or-prompt)
 
 > Exclude any prompts for data that have been supplied via options
 
@@ -56,29 +56,29 @@ class extends Generator {
 
 ## Support
 
-Submit an [issue](https://github.com/jamrizzi/yo-option-or-prompt/issues/new)
+Submit an [issue](https://github.com/codejamninja/yo-option-or-prompt/issues/new)
 
 
 ## Contributing
 
-Review the [guidelines for contributing](https://github.com/jamrizzi/yo-option-or-prompt/blob/master/CONTRIBUTING.md)
+Review the [guidelines for contributing](https://github.com/codejamninja/yo-option-or-prompt/blob/master/CONTRIBUTING.md)
 
 
 ## License
 
-[MIT License](https://github.com/jamrizzi/yo-option-or-prompt/blob/master/LICENSE)
+[MIT License](https://github.com/codejamninja/yo-option-or-prompt/blob/master/LICENSE)
 
-[Jam Risser](https://jam.jamrizzi.com) &copy; 2018
+[Jam Risser](https://jam.codejamninja.com) &copy; 2018
 
 
 ## Changelog
 
-Review the [changelog](https://github.com/jamrizzi/yo-option-or-prompt/blob/master/CHANGELOG.md)
+Review the [changelog](https://github.com/codejamninja/yo-option-or-prompt/blob/master/CHANGELOG.md)
 
 
 ## Credits
 
-* [Jam Risser](https://jam.jamrizzi.com) - Author
+* [Jam Risser](https://jam.codejamninja.com) - Author
 * Based on [yeoman-option-or-prompt](https://github.com/artefact-group/yeoman-option-or-prompt)
 
 
@@ -86,7 +86,7 @@ Review the [changelog](https://github.com/jamrizzi/yo-option-or-prompt/blob/mast
 
 A ridiculous amount of coffee :coffee: :coffee: :coffee: was consumed in the process of building this project.
 
-[Add some fuel](https://beerpay.io/jamrizzi/yo-option-or-prompt) if you'd like to keep me going!
+[Add some fuel](https://beerpay.io/codejamninja/yo-option-or-prompt) if you'd like to keep me going!
 
-[![Beerpay](https://beerpay.io/jamrizzi/yo-option-or-prompt/badge.svg?style=beer-square)](https://beerpay.io/jamrizzi/yo-option-or-prompt)
-[![Beerpay](https://beerpay.io/jamrizzi/yo-option-or-prompt/make-wish.svg?style=flat-square)](https://beerpay.io/jamrizzi/yo-option-or-prompt?focus=wish)
+[![Beerpay](https://beerpay.io/codejamninja/yo-option-or-prompt/badge.svg?style=beer-square)](https://beerpay.io/codejamninja/yo-option-or-prompt)
+[![Beerpay](https://beerpay.io/codejamninja/yo-option-or-prompt/make-wish.svg?style=flat-square)](https://beerpay.io/codejamninja/yo-option-or-prompt?focus=wish)
