@@ -1,4 +1,4 @@
-export default async function yoOptionOrPromt(prompts) {
+export default async function yoOptionOrPrompt(prompts) {
   const isArray = Array.isArray(prompts);
   if (!isArray) prompts = [prompts];
   const filteredPrompts = [];
