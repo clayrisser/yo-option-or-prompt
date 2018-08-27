@@ -1,6 +1,6 @@
 {
   "name": "yo-option-or-prompt",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Exclude any prompts for data that have been supplied via options",
   "homepage": "https://github.com/codejamninja/yo-option-or-prompt",
   "author": {
@@ -19,7 +19,9 @@
     "clean": "rm -rf lib",
     "prepublish": "npm run build"
   },
-  "dependencies": {},
+  "dependencies": {
+    "idempotent-babel-polyfill": "^6.26.0-1"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^8.2.2",
